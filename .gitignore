@@ -2,3 +2,7 @@
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# data
+mnist_data/
+.Trash-0/
