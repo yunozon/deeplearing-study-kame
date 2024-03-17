@@ -6,3 +6,6 @@
 # data
 mnist_data/
 .Trash-0/
+
+work/checkpoint
+*.pth
