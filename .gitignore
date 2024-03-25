@@ -9,3 +9,5 @@ mnist_data/
 
 work/checkpoint
 *.pth
+
+__pycache__/
