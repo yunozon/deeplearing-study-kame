@@ -5,6 +5,7 @@
 
 # data
 mnist_data/
+cifar10_data/
 .Trash-0/
 
 work/checkpoint
