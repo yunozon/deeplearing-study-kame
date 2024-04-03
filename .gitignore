@@ -7,6 +7,7 @@
 mnist_data/
 cifar10_data/
 .Trash-0/
+fminist_data/
 
 work/checkpoint
 *.pth
