@@ -12,4 +12,5 @@ fminist_data/
 work/checkpoint
 *.pth
 
+work/.vscode/
 __pycache__/
